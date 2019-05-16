@@ -1,0 +1,4 @@
+Name,X1para_name,X1type,X1min,X1max,X1step,X1min_default,X1_max_default,X2para_name,X2type,X2min,X2max,X2step,X2min_default,X2_max_default
+LPCF,window_size,NUMERIC,1980,3000,1,2250,NA,threshold,NUMERIC,0.5,3,0.1,1.5,NA
+SET_POINT_PROXIMITY,distribution,RADIO,beta.exponential,1,,,,sigma,NUMERIC,0,10,0.1,1,NA
+_TEST_,TEST_RANGE,RANGE,1,10,0.1,2,4,BOOL,BOOL,0,NA,NA,NA,NA
